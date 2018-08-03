@@ -1,0 +1,87 @@
+2018-07-25T11:20:25.139224647 0.039827s notice: Recursively removing directory /home/software/keyur /vuesimple/rethinkdb_data/tmp
+2018-07-25T11:20:25.157571256 0.058171s notice: Initializing directory /home/software/keyur /vuesimple/rethinkdb_data
+2018-07-25T11:20:25.157668203 0.058268s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/software/keyur /vuesimple/rethinkdb_data' did not already exist or is empty.)
+2018-07-25T11:20:25.157706947 0.058306s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-25T11:20:25.167374595 0.067976s notice: Running on Linux 4.15.0-24-generic x86_64
+2018-07-25T11:20:25.167713381 0.068313s notice: Loading data from directory /home/software/keyur /vuesimple/rethinkdb_data
+2018-07-25T11:20:25.489791657 0.390392s info: Automatically using cache size of 925 MB
+2018-07-25T11:20:25.491652462 0.392253s notice: Listening for intracluster connections on port 29015
+2018-07-25T11:20:25.496626987 0.397227s notice: Listening for client driver connections on port 28015
+2018-07-25T11:20:25.496753628 0.397353s notice: Listening for administrative HTTP connections on port 8080
+2018-07-25T11:20:25.496756178 0.397356s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-25T11:20:25.496759516 0.397359s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-25T11:20:25.496762055 0.397361s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-25T11:20:25.496765550 0.397365s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-07-25T11:20:25.496769059 0.397368s notice: Server ready, "temp_3bg" 3dccb564-d7e1-4cce-92d3-dd40a8920553
+2018-07-25T11:20:52.671389961 27.571990s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: Starting a new Raft election for term 1.
+2018-07-25T11:20:52.672002621 27.572602s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: Added replica on this server.
+2018-07-25T11:20:52.779759878 27.680360s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: This server is Raft leader for term 1. Latest log index is 0.
+2018-07-25T22:15:31.805690599 39306.706293s warn: Some RethinkDB data on this server has been placed into swap memory. This may impact performance.
+2018-07-30T12:19:51.825701319 0.966186s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-30T12:19:52.970181893 2.110668s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-07-30T12:19:52.970277377 2.110762s notice: Loading data from directory /home/software/keyur /vuesimple/rethinkdb_data
+2018-07-30T12:19:58.933506788 8.073992s info: Automatically using cache size of 1850 MB
+2018-07-30T12:19:59.060452088 8.200937s notice: Listening for intracluster connections on port 29015
+2018-07-30T12:20:06.966233874 16.106719s notice: Listening for client driver connections on port 28015
+2018-07-30T12:20:06.966657246 16.107142s notice: Listening for administrative HTTP connections on port 8080
+2018-07-30T12:20:06.966666014 16.107150s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-30T12:20:06.966674228 16.107158s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-30T12:20:06.966687753 16.107172s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-30T12:20:06.966695370 16.107180s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-07-30T12:20:06.966704201 16.107188s notice: Server ready, "temp_3bg" 3dccb564-d7e1-4cce-92d3-dd40a8920553
+2018-07-30T12:20:08.076353459 17.216839s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: Starting a new Raft election for term 2.
+2018-07-30T12:20:08.188440089 17.328925s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: This server is Raft leader for term 2. Latest log index is 2.
+2018-08-01T11:11:54.243867823 0.096476s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-01T11:11:54.286532432 0.139146s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-01T11:11:54.286740221 0.139348s notice: Loading data from directory /home/software/keyur /vuesimple/rethinkdb_data
+2018-08-01T11:11:54.488412689 0.341021s info: Automatically using cache size of 1959 MB
+2018-08-01T11:11:54.499459523 0.352067s notice: Listening for intracluster connections on port 29015
+2018-08-01T11:11:54.866518977 0.719128s notice: Listening for client driver connections on port 28015
+2018-08-01T11:11:54.898167529 0.750776s notice: Listening for administrative HTTP connections on port 9091
+2018-08-01T11:11:54.901685101 0.754293s notice: Listening on cluster addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:cbff:fe23:eafc%4, fe80::1c0a:68ff:fee9:6c08%8, fe80::a887:f3ff:feb1:1c2e%6, fe80::be5f:f4ff:feca:91fe%2
+2018-08-01T11:11:54.903182493 0.755790s notice: Listening on driver addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:cbff:fe23:eafc%4, fe80::1c0a:68ff:fee9:6c08%8, fe80::a887:f3ff:feb1:1c2e%6, fe80::be5f:f4ff:feca:91fe%2
+2018-08-01T11:11:54.904413408 0.757021s notice: Listening on http addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:cbff:fe23:eafc%4, fe80::1c0a:68ff:fee9:6c08%8, fe80::a887:f3ff:feb1:1c2e%6, fe80::be5f:f4ff:feca:91fe%2
+2018-08-01T11:11:54.904416334 0.757024s notice: Server ready, "temp_3bg" 3dccb564-d7e1-4cce-92d3-dd40a8920553
+2018-08-01T11:11:55.946362892 1.798971s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: Starting a new Raft election for term 3.
+2018-08-01T11:11:55.994509588 1.847118s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: This server is Raft leader for term 3. Latest log index is 5.
+2018-08-01T11:18:27.238327854 393.090936s info: Table 12ae2938-5b44-41b9-8f43-af62abb9250c: Starting a new Raft election for term 1.
+2018-08-01T11:18:27.238922842 393.091531s info: Table 12ae2938-5b44-41b9-8f43-af62abb9250c: Added replica on this server.
+2018-08-01T11:18:27.334336350 393.186944s info: Table 12ae2938-5b44-41b9-8f43-af62abb9250c: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-01T15:42:31.270301397 16237.122910s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Starting a new Raft election for term 1.
+2018-08-01T15:42:31.271115509 16237.123724s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Added replica on this server.
+2018-08-01T15:42:31.326249972 16237.178858s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-01T15:42:32.284341227 16238.136949s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Configuration is changing.
+2018-08-01T15:42:32.284436401 16238.137044s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Configuration is changing.
+2018-08-01T15:42:32.285124664 16238.137732s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Configuration is changing.
+2018-08-01T15:42:32.285511849 16238.138120s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Configuration is changing.
+2018-08-01T15:42:32.285535756 16238.138143s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Configuration is changing.
+2018-08-02T14:26:18.623143233 0.023299s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-02T14:26:18.647217180 0.047386s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-02T14:26:18.647511884 0.047668s notice: Loading data from directory /home/software/keyur /vuesimple/rethinkdb_data
+2018-08-02T14:26:18.831918286 0.232074s info: Automatically using cache size of 280 MB
+2018-08-02T14:26:18.833515564 0.233672s error: TCP socket creation failed for port 29015: Address already in use.
+2018-08-02T17:24:08.837714444 0.218098s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-02T17:24:08.905716906 0.286103s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-02T17:24:08.905800101 0.286183s notice: Loading data from directory /home/software/keyur /vuesimple/rethinkdb_data
+2018-08-02T17:24:09.212822201 0.593206s info: Automatically using cache size of 100 MB
+2018-08-02T17:24:09.258876817 0.639261s warn: Cache size does not leave much memory for server and query overhead (available memory: 870 MB).
+2018-08-02T17:24:09.259130711 0.639514s warn: Cache size is very low and may impact performance.
+2018-08-02T17:24:09.261592654 0.641977s error: TCP socket creation failed for port 29015: Address already in use.
+2018-08-03T11:07:18.564741130 2.674644s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-03T11:07:18.591591293 2.701496s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-03T11:07:18.592271860 2.702234s notice: Loading data from directory /home/software/keyur /vuesimple/rethinkdb_data
+2018-08-03T11:07:28.306475641 12.416379s info: Automatically using cache size of 2468 MB
+2018-08-03T11:07:28.375389296 12.485293s notice: Listening for intracluster connections on port 29015
+2018-08-03T11:07:37.159410016 21.269313s info: Table 12ae2938-5b44-41b9-8f43-af62abb9250c: Starting a new Raft election for term 2.
+2018-08-03T11:07:46.867163397 30.977066s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: Starting a new Raft election for term 2.
+2018-08-03T11:07:51.249043776 35.358947s notice: Listening for client driver connections on port 28015
+2018-08-03T11:07:51.249152408 35.359055s notice: Listening for administrative HTTP connections on port 9090
+2018-08-03T11:07:51.249153321 35.359056s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-08-03T11:07:51.249153976 35.359056s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-08-03T11:07:51.249157748 35.359060s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-08-03T11:07:51.249158804 35.359061s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-08-03T11:07:51.249159560 35.359062s notice: Server ready, "temp_3bg" 3dccb564-d7e1-4cce-92d3-dd40a8920553
+2018-08-03T11:07:51.655093207 35.764996s info: Table 12ae2938-5b44-41b9-8f43-af62abb9250c: This server is Raft leader for term 2. Latest log index is 2.
+2018-08-03T11:07:51.829233541 35.939137s info: Table 84637526-1095-452e-89ff-11ae01ddc5c2: This server is Raft leader for term 2. Latest log index is 9.
+2018-08-03T11:07:52.971054536 37.080958s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: Starting a new Raft election for term 4.
+2018-08-03T11:07:53.396858977 37.506762s info: Table ac3dd56a-23a4-4f51-aa8c-71b8cddccadc: This server is Raft leader for term 4. Latest log index is 8.

@@ -1,0 +1,77 @@
+2018-07-30T17:17:33.506092231 0.104542s notice: Recursively removing directory /home/software/keyur /vuesimple/src/router/rethinkdb_data/tmp
+2018-07-30T17:17:33.525549433 0.123997s notice: Initializing directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-07-30T17:17:33.525725580 0.124173s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/software/keyur /vuesimple/src/router/rethinkdb_data' did not already exist or is empty.)
+2018-07-30T17:17:33.525801683 0.124249s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-30T17:17:33.531764952 0.130214s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-07-30T17:17:33.531818932 0.130266s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-07-30T17:17:33.856011951 0.454460s info: Automatically using cache size of 1257 MB
+2018-07-30T17:17:33.877942074 0.476390s notice: Listening for intracluster connections on port 29015
+2018-07-30T17:17:33.909253492 0.507701s notice: Listening for client driver connections on port 28015
+2018-07-30T17:17:33.980881087 0.579329s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2018-07-30T17:18:04.718021363 0.028178s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-30T17:18:04.723605162 0.033763s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-07-30T17:18:04.723689823 0.033846s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-07-30T17:18:04.798937920 0.109094s info: Automatically using cache size of 1257 MB
+2018-07-30T17:18:04.802795063 0.112952s notice: Listening for intracluster connections on port 29015
+2018-07-30T17:18:04.805680797 0.115837s notice: Listening for client driver connections on port 28015
+2018-07-30T17:18:04.806189442 0.116346s notice: Listening for administrative HTTP connections on port 9091
+2018-07-30T17:18:04.808458637 0.118615s notice: Listening on cluster addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:c6ff:fe56:56b0%3, fe80::be5f:f4ff:feca:91fe%2, fe80::c41b:5aff:fec6:98c9%8, fe80::d089:2bff:fe32:f19%6
+2018-07-30T17:18:04.809558311 0.119714s notice: Listening on driver addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:c6ff:fe56:56b0%3, fe80::be5f:f4ff:feca:91fe%2, fe80::c41b:5aff:fec6:98c9%8, fe80::d089:2bff:fe32:f19%6
+2018-07-30T17:18:04.810590157 0.120746s notice: Listening on http addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:c6ff:fe56:56b0%3, fe80::be5f:f4ff:feca:91fe%2, fe80::c41b:5aff:fec6:98c9%8, fe80::d089:2bff:fe32:f19%6
+2018-07-30T17:18:04.810597486 0.120753s notice: Server ready, "temp_cvu" f573d63c-d916-4c27-a327-2d0fceec26da
+2018-07-30T17:20:13.504840228 128.814997s info: Table 840e2a01-51cc-426a-9244-7f15be6d19c0: Starting a new Raft election for term 1.
+2018-07-30T17:20:13.505334094 128.815491s info: Table 840e2a01-51cc-426a-9244-7f15be6d19c0: Added replica on this server.
+2018-07-30T17:20:13.595655244 128.905812s info: Table 840e2a01-51cc-426a-9244-7f15be6d19c0: This server is Raft leader for term 1. Latest log index is 0.
+2018-07-30T17:51:00.736817943 0.027154s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-30T17:51:00.743648963 0.033986s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-07-30T17:51:00.743743569 0.034079s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-07-30T17:51:00.809794241 0.100130s info: Automatically using cache size of 1107 MB
+2018-07-30T17:51:00.813066582 0.103402s notice: Listening for intracluster connections on port 29015
+2018-07-30T17:51:00.853360130 0.143696s notice: Listening for client driver connections on port 28015
+2018-07-30T17:51:00.892683145 0.183018s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2018-07-30T17:51:14.929251063 0.028709s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-30T17:51:14.937049665 0.036508s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-07-30T17:51:14.937121862 0.036578s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-07-30T17:51:15.005375811 0.104833s info: Automatically using cache size of 1107 MB
+2018-07-30T17:51:15.007186675 0.106643s notice: Listening for intracluster connections on port 29015
+2018-07-30T17:51:15.045594359 0.145051s notice: Listening for client driver connections on port 28015
+2018-07-30T17:51:15.045903485 0.145360s notice: Listening for administrative HTTP connections on port 9999
+2018-07-30T17:51:15.047130004 0.146587s notice: Listening on cluster addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:c6ff:fe56:56b0%3, fe80::be5f:f4ff:feca:91fe%2, fe80::c41b:5aff:fec6:98c9%8, fe80::d089:2bff:fe32:f19%6
+2018-07-30T17:51:15.048043906 0.147501s notice: Listening on driver addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:c6ff:fe56:56b0%3, fe80::be5f:f4ff:feca:91fe%2, fe80::c41b:5aff:fec6:98c9%8, fe80::d089:2bff:fe32:f19%6
+2018-07-30T17:51:15.048907870 0.148365s notice: Listening on http addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:c6ff:fe56:56b0%3, fe80::be5f:f4ff:feca:91fe%2, fe80::c41b:5aff:fec6:98c9%8, fe80::d089:2bff:fe32:f19%6
+2018-07-30T17:51:15.048921035 0.148377s notice: Server ready, "temp_cvu" f573d63c-d916-4c27-a327-2d0fceec26da
+2018-07-30T17:51:16.466184122 1.565641s info: Table 840e2a01-51cc-426a-9244-7f15be6d19c0: Starting a new Raft election for term 2.
+2018-07-30T17:51:16.506073778 1.605531s info: Table 840e2a01-51cc-426a-9244-7f15be6d19c0: This server is Raft leader for term 2. Latest log index is 2.
+2018-07-31T11:37:41.153633093 0.095183s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-31T11:37:41.175547980 0.117102s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-07-31T11:37:41.175670390 0.117220s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-07-31T11:37:41.359494692 0.301044s info: Automatically using cache size of 2206 MB
+2018-07-31T11:37:41.369209829 0.310760s notice: Listening for intracluster connections on port 29015
+2018-07-31T11:37:41.556289789 0.497839s notice: Listening for client driver connections on port 28015
+2018-07-31T11:37:41.556438589 0.497988s notice: Listening for administrative HTTP connections on port 9091
+2018-07-31T11:37:41.558401453 0.499951s notice: Listening on cluster addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:cbff:fe23:eafc%4, fe80::1c0a:68ff:fee9:6c08%8, fe80::a887:f3ff:feb1:1c2e%6, fe80::be5f:f4ff:feca:91fe%2
+2018-07-31T11:37:41.559649960 0.501199s notice: Listening on driver addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:cbff:fe23:eafc%4, fe80::1c0a:68ff:fee9:6c08%8, fe80::a887:f3ff:feb1:1c2e%6, fe80::be5f:f4ff:feca:91fe%2
+2018-07-31T11:37:41.560980920 0.502530s notice: Listening on http addresses: 127.0.0.1, 172.17.0.1, 172.18.0.1, 127.0.1.1, 172.16.60.73, ::1, fe80::42:cbff:fe23:eafc%4, fe80::1c0a:68ff:fee9:6c08%8, fe80::a887:f3ff:feb1:1c2e%6, fe80::be5f:f4ff:feca:91fe%2
+2018-07-31T11:37:41.561034997 0.502584s notice: Server ready, "temp_cvu" f573d63c-d916-4c27-a327-2d0fceec26da
+2018-07-31T11:37:43.453123656 2.394673s info: Table 840e2a01-51cc-426a-9244-7f15be6d19c0: Starting a new Raft election for term 3.
+2018-07-31T11:37:43.496833268 2.438383s info: Table 840e2a01-51cc-426a-9244-7f15be6d19c0: This server is Raft leader for term 3. Latest log index is 6.
+2018-08-02T14:21:51.608391945 0.008911s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-02T14:21:51.643358547 0.043882s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-02T14:21:51.643457752 0.043977s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-08-02T14:21:51.768878040 0.169397s info: Automatically using cache size of 354 MB
+2018-08-02T14:21:51.769702454 0.170222s error: TCP socket creation failed for port 29015: Address already in use.
+2018-08-02T14:22:55.770462198 0.028471s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-02T14:22:55.778270450 0.036286s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-02T14:22:55.778521476 0.036529s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-08-02T14:22:55.872139164 0.130148s info: Automatically using cache size of 350 MB
+2018-08-02T14:22:55.873750010 0.131758s error: TCP socket creation failed for port 29015: Address already in use.
+2018-08-02T14:24:01.661719561 0.027159s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-02T14:24:01.691393318 0.056836s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-02T14:24:01.691498542 0.056937s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-08-02T14:24:01.781933313 0.147372s info: Automatically using cache size of 254 MB
+2018-08-02T14:24:01.785940331 0.151379s error: TCP socket creation failed for port 29015: Address already in use.
+2018-08-02T14:24:24.948938365 0.030642s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-08-02T14:24:24.962340809 0.044047s notice: Running on Linux 4.15.0-29-generic x86_64
+2018-08-02T14:24:24.962424333 0.044128s notice: Loading data from directory /home/software/keyur /vuesimple/src/router/rethinkdb_data
+2018-08-02T14:24:25.039291064 0.120995s info: Automatically using cache size of 254 MB
+2018-08-02T14:24:25.039634252 0.121338s error: TCP socket creation failed for port 29015: Address already in use.
